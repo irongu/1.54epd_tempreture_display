@@ -1,2 +1,25 @@
 # 1.54epd_tempreture_display
-a small device that display tempreture and humity 
+一个使用1.54寸墨水屏显示温湿度的小装置
+
+------
+
+TODO：
+
+   - [ ] 显示温湿度
+   - [ ] 显示时间
+   - [ ] 显示气压
+   - [ ] 休眠，一分钟唤醒刷新一次
+   - [ ] 测试不同工作状态下的电流
+   - [ ] 评估整体功耗，能否采用室内太阳能供电
+
+
+
+## 显示效果
+
+TODO
+
+
+
+## 功耗测试结果
+
+TODO
